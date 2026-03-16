@@ -2,9 +2,9 @@
 
 &nbsp;
 
-# PHP: JavaScript, All About Objects (8-13)
+# PHP: JavaScript, The DOM (14-22)
 
-Prezentowane zadania są przygotowane na podstawie rozdziału ["All About Objects" (8-13)](https://laracasts.com/series/javascript-essentials-for-php-developers/episodes/8) dla kursu "[JavaScript Essentials for PHP Developers](https://laracasts.com/series/javascript-essentials-for-php-developers)". Użyj [linku polecającego](https://laracasts.com/referral/bogolubow), aby się zarejestrować i docenić moją pracę.
+Prezentowane zadania są przygotowane na podstawie rozdziału ["The DOM" (14-22)](https://laracasts.com/series/javascript-essentials-for-php-developers/episodes/14) dla kursu "[JavaScript Essentials for PHP Developers](https://laracasts.com/series/javascript-essentials-for-php-developers)". Użyj [linku polecającego](https://laracasts.com/referral/bogolubow), aby się zarejestrować i docenić moją pracę.
 
 
 &nbsp;
